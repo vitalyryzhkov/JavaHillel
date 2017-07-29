@@ -5,7 +5,6 @@ public class task1 {
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
-
         System.out.println(averageTwoNums(a, b));
     }
 
