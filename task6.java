@@ -20,3 +20,4 @@ public class task6 {
         return true;
     }
 }
+
