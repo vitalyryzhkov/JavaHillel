@@ -25,3 +25,5 @@ public class task3 {
 //        System.out.format("Сумма к выдаче: %.2f %n", totalAmount);
     }
 }
+
+
