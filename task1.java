@@ -12,3 +12,5 @@ public class task1 {
         return (a + b) / 2;
     }
 }
+
+
