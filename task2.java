@@ -18,3 +18,5 @@ public class task2 {
         System.out.println("Среднее арифметическое: " + b / a.length);
     }
 }
+
+
